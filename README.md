@@ -342,6 +342,8 @@ git push origin feature/NewFeature
 **Sohan Das**
 
 GitHub: https://github.com/Sohan899
+## Frontend part 
+Github:-https://github.com/Sohan899/micropart2
 
 ---
 
@@ -350,5 +352,3 @@ GitHub: https://github.com/Sohan899
 This project is licensed under the MIT License.
 
 ---
-
-⭐ If you found this project useful, consider giving it a star!
