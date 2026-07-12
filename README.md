@@ -1,5 +1,4 @@
 # 🚀 Microservices E-Commerce Backend
-
 A scalable **Microservices-based E-Commerce Backend** built using **Node.js**, **Express.js**, **RabbitMQ**, **Nginx**, and **Docker**. The application follows a distributed architecture where each service is independently deployable and communicates asynchronously through RabbitMQ.
 
 ---
